@@ -13,3 +13,5 @@ Try it yourself with these test users:
 
 2. username: testUser3
    password:bruce@123Wayne
+
+* This is just a personal web application for educational use and personal development. Please do not use this application with malicious intentions to spam, or fill the chat logs with inappropriate text or images.
